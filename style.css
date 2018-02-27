@@ -1,0 +1,56 @@
+body {
+	background-image: url(bagpla.jpg);
+	background-size: cover;
+
+}	
+
+/*.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}*/
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/*.btn-primary:hover {
+	flex-wrap: wrap;
+	background-color: grey;
+	font-weight: 700;
+  	
+	
+}*/
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.col {
+	color: rgb(111, 143, 162);
+	font-size: 350%;
+	font-family: 'Prosto One', cursive;
+	text-align: center;
+	margin-top: 300px;
+
+}
+
+
+.btn-primary {
+  background-color: #2598d0;
+  border-color: #2598d0;
+  font-size: 150%; 
+
+}
+
+.btn-primary:hover {
+  background-color: #14d0cb;
+  border-color: #14d0cb;
+  border-width: 4px;
+  cursor: pointer;
+}
